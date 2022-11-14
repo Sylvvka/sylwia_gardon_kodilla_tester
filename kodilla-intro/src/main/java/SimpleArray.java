@@ -19,7 +19,7 @@ public class SimpleArray {
         joannaChylkaSeria[13] = "Egzekucja";
         joannaChylkaSeria[14] = "Skazanie";
 
-        String joannaChylkabest = joannaChylkaSeria[3];
+        String joannaChylkabest = joannaChylkaSeria[2];
 
         System.out.println(joannaChylkabest);
 
